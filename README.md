@@ -1,6 +1,6 @@
 **👋 Welcome to My GitHub!**
 
-I’m Soma Sekhar Manda, an Aspiring Data Analyst with an MBA in Finance and hands-on experience in Power BI, SQL, Excel, Python, Microsoft Fabric and Tableau.
+I’m Soma Sekhar Manda, a Data Analyst with an MBA in Finance and hands-on experience in Power BI, SQL, Excel, Python, Microsoft Fabric and Tableau.
 I’m passionate about converting raw data into **clear, actionable insights** that support business and financial decision-making. I enjoy uncovering patterns, solving problems, and presenting data through impactful visual stories.
 
 **🔧 Technical & Soft Skills**
