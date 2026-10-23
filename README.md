@@ -25,7 +25,7 @@ Excel
 
 LinkedIn: https://www.linkedin.com/in/mandasomasekhar
 
-Email: somasekher57@gmail.com
+Email:  soma.sekhar.analytics@gmail.com
 
 Portfolio: https://codebasics.io/portfolio/MANDA-SOMA-SEKHAR
 
