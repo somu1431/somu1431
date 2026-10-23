@@ -5,32 +5,21 @@ I’m passionate about converting raw data into **clear, actionable insights** t
 
 **🔧 Technical & Soft Skills**
 
-Excel
-
 Power BI
 
 MySQL
 
 Tableau
 
-Python
-
-Microsoft Fabric
-
-AI-Assisted Analytics
-
-Data Quality & Reconciliation
-
-Problem-Solving & Analytical Thinking
-
 Data Storytelling & Insight Communication
 
 Data Visualization
 
-Financial Modeling and Forecasting 
-
 Data Modeling
 
+Python
+
+Excel
 
 **🌟 Let’s Connect!**
 
